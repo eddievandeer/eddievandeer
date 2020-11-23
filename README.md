@@ -2,7 +2,7 @@
 
 ## 👋Hi there
 
-I'm a college student in Henan university of science and technology, this year's junior, majoring in computer science and technology.
+I'm a college student in Henan University of Science and Technology, this year's junior, majoring in computer science and technology.
 
 I'd like to be a a front-end engineer in the feature, because this job is really interesting and challenging.
 
