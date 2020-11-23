@@ -1,6 +1,24 @@
-<h2 align="center">Hi I'm Vivek! 👋</h2>
+<h1 align="center">Hi I'm Vivek! 👋</h1>
 
-🌱 I’m currently learning Vue3.0
+## 👋Hi there
+
+I'm a college student in Henan university of science and technology, this year's junior, majoring in computer science and technology.
+
+I'd like to be a a front-end engineer in the feature, because this job is really interesting and challenging.
+
+
+
+## 🌱 I’m currently learning
+
+- CSS3
+
+- Vue3.0
+- TypeScript
+- socket.io
+
+
+
+## ⭐My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddievandeer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
