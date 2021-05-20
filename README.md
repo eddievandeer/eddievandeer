@@ -2,7 +2,7 @@
 
 ## 👋Hi there
 
-I'm a college student in Henan University of Science and Technology, this year's junior, majoring in computer science and technology.
+I'm a college student, this year's junior, majoring in computer science and technology.
 
 I'd like to be a a front-end engineer in the feature, because this job is really interesting and challenging.
 
@@ -23,6 +23,9 @@ I'd like to be a a front-end engineer in the feature, because this job is really
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddievandeer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eddievandeer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 How to reach me:
+Email: eddievandeer@163.com
 
 <!--
 **eddievandeer/eddievandeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
