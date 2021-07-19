@@ -13,8 +13,11 @@ I'd like to be a a front-end engineer in the feature, because this job is really
 - CSS3
 - Vue3.0
 - TypeScript
-- Tailwind CSS
+- React
+- UmiJS
 
+
+## 🔭 I’m currently working on KingSoft
 
 
 ## ⭐My GitHub Stats
