@@ -17,7 +17,7 @@ I'd like to be a a front-end engineer in the feature, because this job is really
   - UmiJS
 
 
-- 🔭 ~~~I’m currently intern at KingSoft~~~
+- 🔭 ~~I’m currently intern at KingSoft~~
 
 
 ### ⭐My GitHub Stats
