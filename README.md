@@ -2,7 +2,7 @@
 
 ### 👋Hi there, I'm Vivek.
 
-I'm a college student, this year's junior, majoring in computer science and technology.
+I'm a college student, this year's senior, majoring in computer science and technology.
 
 I'd like to be a a front-end engineer in the feature, because this job is really interesting and challenging.
 
