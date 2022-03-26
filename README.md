@@ -14,7 +14,7 @@ I'd like to be a a front-end engineer in the feature, because this job is really
   - Vue3.0
   - TypeScript
   - React
-  - UmiJS
+  - React Native
 
 
 - 🔭 ~~I’m currently intern at KingSoft~~
