@@ -10,14 +10,15 @@ I'd like to be a a front-end engineer in the feature, because this job is really
 
 - 🌱 I’m currently learning
 
-  - CSS3
-  - Vue3.0
+  - Vue3
   - TypeScript
   - React
   - React Native
+  - Design Patterns
 
 
 - 🔭 ~~I’m currently intern at KingSoft~~
+- 🔭 I'm going to work for AfterShip~
 
 
 ### ⭐My GitHub Stats
