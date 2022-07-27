@@ -13,12 +13,13 @@ I'd like to be a a front-end engineer in the feature, because this job is really
   - Vue3
   - TypeScript
   - React
+  - GraphQL
   - React Native
   - Design Patterns
 
 
 - 🔭 ~~I’m currently intern at KingSoft~~
-- 🔭 I'm going to work for AfterShip~
+- 🔭 I'm working in AfterShip now~
 
 
 ### ⭐My GitHub Stats
